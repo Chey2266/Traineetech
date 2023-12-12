@@ -1,0 +1,271 @@
+.h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.h{
+    color: maroon;
+    text-align: center;
+    padding-bottom: 30px;
+}
+span{
+    color: maroon;
+}
+.h5{
+    padding-top: 20px;
+    color: maroon;
+}
+.p{
+    padding-top: 20px;
+    text-align: justify;
+}
+h1{
+    color: black;
+}
+figure{
+    box-shadow: 5px 5px 10px 2px lightgray;
+    text-align: center;
+    background-color: lightgray;
+}
+figure img{
+    width: 100%;
+}
+figcaption h5{
+    color: black;
+    padding: 10px;
+}
+#in{
+    text-align: start;
+    padding-left: 10px;
+    width: 80%;
+    margin-bottom: 20px;
+    height: 40px;
+    margin-right: 20px;
+}
+#sel{
+    text-align: start;
+    padding-left: 10px;
+    width: 80%;
+    margin-left: 75px;
+    height: 40px;
+    margin-right: 20px;
+    margin-bottom: 40px
+}
+form textarea{
+    text-align: start;
+    padding-left: 10px;
+    width: 80%;
+    height: 100px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+.h11{
+    margin-left: 350px;
+}
+.btnn{
+    margin-left: 300px;
+    display: block;
+    text-align: center;
+    width: 30%;
+    height: 40px;
+    border: 0;
+    background-color: antiquewhite;
+}
+.heading{
+    text-align: start;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom  : 25px;
+}
+#para p{
+    padding-bottom: 10px;
+    text-align: justify;
+}
+.ad{
+    margin-top: 30px;
+}
+#addddd{
+    padding-top: 0;
+    margin-right: 0;
+}
+#userNote,#userNote1,#userNote2{
+    color: red;
+}
+#contact h1{
+    margin-bottom: 30px;
+}
+#contact input,select{
+    width: 40%;
+    height: 40px;
+    display: block;
+    margin-bottom: 30px;
+    margin-left: 370px;
+}
+#contact h1{
+    text-align: center;
+}
+#contact textarea{
+    width: 40%;
+    margin-left: 370px;
+}
+.btn11{
+    margin-left: 490px;
+    height: 40px;
+    border: 0;
+    display: block;
+    width: 20%;
+    background-color: brown;
+    color: white;
+}
+#inn{
+    width: 100%;
+    height: 50px;
+}
+#btn{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(114, 66, 66);
+    margin-bottom: 150px;
+    color: white;
+}
+#wel{
+    margin-bottom: 50px;
+}
+#enroll{
+    border: 0;
+    width: 50px;
+    background-color: rgb(50, 96, 50);
+    color: white;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 0;   
+    margin-top: 5px;
+}
+#enroll1{
+    border: 0;
+    width: 80px;
+    background-color: rgb(174, 36, 36);
+    color: white;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 0;
+    margin-top: 5px;
+
+    
+}
+#sidenav button{
+    width: 100%;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+#sidenav button:hover{
+    background-color: rgb(17, 57, 17);
+}
+#sidenav{
+    border-right: 1px solid grey ;
+    padding: 20px;
+    margin-bottom: 158px;
+}
+#addBatches input{
+    width: 40%;
+    margin: 20px;
+}
+#addBatches{
+    text-align: center;
+}
+#course .card img{
+    height: 140px;
+}
+#course .card-body{
+    background-color: lightgray;
+    width: 100%;
+}
+#course .card-body h5{
+    width: 100%;
+    padding: 0;
+}
+.card{
+    margin-top: 40px;
+}
+.pp{
+    margin-top: 30px;
+    text-align: justify;
+}
+.im{
+    padding: 0;
+    width: 100%;
+    margin-top: 100px;
+}
+#frm input{
+    width: 80%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#frm select{
+    width: 80%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+#frm textarea{
+    width: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#frm button{
+    width: 50%;
+    margin: 10px;
+    margin-left: 100px;
+
+}
+#frm h1{
+    margin-top: 10px;
+}
+#frm{
+    margin-left:0;
+    background-color: tan;
+}
+.know{
+    width: 100%;
+    margin: 0;
+}
+#edit{
+    width: 50px;
+    background-color: rgb(50, 96, 50);
+    color: white;
+    display: inline-block ;
+}
+#delete{
+    width: 80px;
+    background-color: rgb(174, 36, 36);
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+}
+#now{
+    width: 60%;
+    background-color: rgb(50, 96, 50);
+    color: white;
+}
+.sli, .sli1{
+    width: 85%;
+    margin: 10px;
+    margin-top: 10px;
+}
+.sli1{
+    margin: 10px;
+}
+#slidd{
+    background-color: rgba(250, 128, 114, 0.464);
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 420px;
+    
+}
